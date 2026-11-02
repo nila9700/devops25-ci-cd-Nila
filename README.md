@@ -54,3 +54,6 @@ Repositoryt är byggt för att kunna användas stegvis:
 ## Viktig fråga i varje steg
 
 > Vilket problem löser detta steg, och vad riskerar vi om steget saknas?
+
+## Dag 1 - Git-övning
+Testat API:et lokalt, kört pytest, utforskat Swagger. Divide med b=0 ger HTTP 500.
