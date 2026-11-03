@@ -57,3 +57,4 @@ Repositoryt är byggt för att kunna användas stegvis:
 
 ## CI-test
 Triggade pipelinen för första gången.
+pipeline aktiverad.
