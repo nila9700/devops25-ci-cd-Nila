@@ -6,7 +6,7 @@ app = FastAPI(title="DEVOPS25 CI/CD Demo")
 
 @app.get("/health")
 def health():
-    return {"status": "broken"}
+    return {"status": "ok"}
 
 
 @app.get("/api/add")
