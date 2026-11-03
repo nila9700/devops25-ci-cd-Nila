@@ -56,4 +56,5 @@ Repositoryt är byggt för att kunna användas stegvis:
 > Vilket problem löser detta steg, och vad riskerar vi om steget saknas?
 
 ## Dag 1 - Git-övning
-Testat API:et lokalt, kört pytest, utforskat Swagger. Divide med b=0 ger HTTP 500.
+Testat API:et lokalt, kört pytest, utforskat Swagger. Divide med b=0 ger HTTP 500.CI-övning: en Pull Request startar automatiska kontroller.
+CI-övning: En Pull Request startar automatiska kontroller.
