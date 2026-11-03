@@ -54,7 +54,3 @@ Repositoryt är byggt för att kunna användas stegvis:
 ## Viktig fråga i varje steg
 
 > Vilket problem löser detta steg, och vad riskerar vi om steget saknas?
-
-## CI-test
-Triggade pipelinen för första gången.
-pipeline aktiverad.
